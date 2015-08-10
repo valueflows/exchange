@@ -22,6 +22,7 @@ In the [OVN vocab](https://github.com/openvocab/ovn), we want to track not only 
 
 ![exchanges](https://docs.google.com/drawings/d/1BnVK0J6mJd9OCpqLhJPp59vyutK_Q2ggOJJSyMkNc4o/pub?w=485&h=398)
 
+
 If exchanges happen between agents in different systems, then a resource transfer needs to be separated into a Give event (might be called a Shipment) in one system and a Take event (might be called a Receipt) in the other system.
 
 If the agents operate in the same logical system, then a resource transfer can just be a transfer - a single event where the resource moves from the Giver to the Taker - although the Giver and the Taker will have different views of the same event.
@@ -38,6 +39,6 @@ In general, processes and exchanges alternate in a flow. But in some situations,
 
 #### Exchange-oriented flow
 
-![exchange-oriented flow](https://docs.google.com/drawings/d/1og6iUscoFmzHm2zkfhwSU3lp6zHPX2j3BfvTmyfGmww/pub?w=720&h=330)
+![exchange-oriented flow](https://drive.google.com/file/d/0BxlqOeaPnXHfQXF2SmpSaHRHWEk/view?usp=sharing)
 
 
