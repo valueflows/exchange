@@ -20,7 +20,7 @@ This differs from (for example) the [Good Relations Conceptual Model](http://wik
 
 In the [OVN vocab](https://github.com/openvocab/ovn), we want to track not only the offers and promises, but also the actual flows of resources in networks, in all directions.
 
-![exchanges](https://docs.google.com/drawings/d/1BnVK0J6mJd9OCpqLhJPp59vyutK_Q2ggOJJSyMkNc4o/pub?w=485&h=398)
+![exchanges](https://github.com/valnet/exchange/blob/master/images/exchange-exchange.png)
 
 
 If exchanges happen between agents in different systems, then a resource transfer needs to be separated into a Give event (might be called a Shipment) in one system and a Take event (might be called a Receipt) in the other system.
@@ -39,6 +39,6 @@ In general, processes and exchanges alternate in a flow. But in some situations,
 
 #### Exchange-oriented flow
 
-![exchange-oriented flow](https://drive.google.com/file/d/0BxlqOeaPnXHfQXF2SmpSaHRHWEk/view?usp=sharing)
+![exchange-oriented flow]()
 
 
