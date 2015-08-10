@@ -24,7 +24,7 @@ In the [OVN vocab](https://github.com/openvocab/ovn), we want to track not only 
 
 If exchanges happen between agents in different systems, then a resource transfer needs to be separated into a Give event (might be called a Shipment) in one system and a Take event (might be called a Receipt) in the other system.
 
-If the agents operate in the same logical system, then a resource transfer can just be a transfer - a single event where the resource moves from the Giver to the Take - although the Giver and the Taker will have different views of the same event.
+If the agents operate in the same logical system, then a resource transfer can just be a transfer - a single event where the resource moves from the Giver to the Taker - although the Giver and the Taker will have different views of the same event.
 
 ### Exchange protocols
 
