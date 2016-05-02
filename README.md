@@ -22,12 +22,9 @@ Other related vocabularies include [this product type ontology based on Wikipedi
 
 In the [OVN vocab](https://github.com/openvocab/ovn), we want to track not only the offers and promises, but also the actual flows of resources in networks, in all directions. And we want to support exchanges that don't involve money as well as those that do.
 
-![exchanges](https://docs.google.com/drawings/d/1BnVK0J6mJd9OCpqLhJPp59vyutK_Q2ggOJJSyMkNc4o/pub?w=485&h=398)
+### Definitions
 
-
-If exchanges happen between agents in different systems, then a resource transfer needs to be separated into a Give event (might be called a Shipment) in one system and a Take event (might be called a Receipt) in the other system.
-
-If the agents operate in the same logical system, then a resource transfer can just be a transfer - a single event where the resource moves from the Giver to the Taker - although the Giver and the Taker will have different views of the same event.
+* *Transfer*: Moving rights to and responsibilities for an economic resource from one agent to another. This does not cover change of location. The exact rights and responsibilities can be defined by an agreement between the agents, which accompanies the resource to be transferred. If not, the rights are assumed to be rights to consume, use, or transfer the resource.
 
 ### Exchange protocols
 
