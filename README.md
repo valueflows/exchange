@@ -24,7 +24,7 @@ In the [OVN vocab](https://github.com/openvocab/ovn), we want to track not only 
 
 ### Definitions
 
-* *[Transfer](https://github.com/elf-pavlik/exchange/blob/master/Transfer.md)*
+* *[Transfer](https://github.com/valueflows/exchange/blob/master/Transfer.md)*
 
 ### Exchange protocols
 
