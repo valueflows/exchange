@@ -26,6 +26,9 @@ In the [OVN vocab](https://github.com/openvocab/ovn), we want to track not only 
 
 * *[Transfer](https://github.com/valueflows/exchange/blob/master/Transfer.md)*
 
+### Use Cases
+* [Dental Care](https://github.com/valueflows/valueflows/blob/master/use-cases/dental-care.md)
+
 ### Exchange protocols
 
 Exchanges may use any of several technical protocols, but the main human-level protocol has been in use for many years. It may be called [Offer-Acceptance](https://en.wikipedia.org/wiki/Offer_and_acceptance) or [Conversation for Action](http://conversationsforaction.com/cfa-playground). It may include several preparation stages for agents who have never exchanged anything before, or it may be really simple if they exchange resources all the time.
